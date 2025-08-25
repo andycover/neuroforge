@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250825-1636-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.30.5-msvc23"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="ATYETI-IN-L0436"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="12"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="32487"
+	TotalPhysicalMemory="16103"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2803"
+	>
+	<Testing>
+		<StartDateTime>Aug 25 22:07 India Standard Time</StartDateTime>
+		<StartTestTime>1756139822</StartTestTime>
+		<TestList/>
+		<EndDateTime>Aug 25 22:07 India Standard Time</EndDateTime>
+		<EndTestTime>1756139822</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

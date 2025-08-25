@@ -1,0 +1,4 @@
+C:/Users/AbhishekAnand/OneDrive - Atyeti Inc/Documents/Repos/andycover/neuroforge/build/CMakeFiles/neuroforge.dir
+C:/Users/AbhishekAnand/OneDrive - Atyeti Inc/Documents/Repos/andycover/neuroforge/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/AbhishekAnand/OneDrive - Atyeti Inc/Documents/Repos/andycover/neuroforge/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/AbhishekAnand/OneDrive - Atyeti Inc/Documents/Repos/andycover/neuroforge/build/CMakeFiles/ZERO_CHECK.dir
