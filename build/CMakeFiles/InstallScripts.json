@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/AbhishekAnand/OneDrive - Atyeti Inc/Documents/Repos/andycover/neuroforge/build/cmake_install.cmake",
+		"C:/Users/AbhishekAnand/OneDrive - Atyeti Inc/Documents/Repos/andycover/neuroforge/build/extern/googletest/cmake_install.cmake",
+		"C:/Users/AbhishekAnand/OneDrive - Atyeti Inc/Documents/Repos/andycover/neuroforge/build/extern/googletest/googlemock/cmake_install.cmake",
+		"C:/Users/AbhishekAnand/OneDrive - Atyeti Inc/Documents/Repos/andycover/neuroforge/build/extern/googletest/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

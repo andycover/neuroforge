@@ -6,6 +6,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Include directories
 include_directories(include)
+include_directories(extern/googletest/googletest/include)
+include_directories(extern/googletest/googlemock/include)
 
 # Source files
 file(GLOB_RECURSE SOURCES "src/*.cpp")
@@ -13,8 +15,18 @@ file(GLOB_RECURSE SOURCES "src/*.cpp")
 # Executable
 add_executable(neuroforge ${SOURCES})
 
-# Testing (enable later)
-enable_testing()
-# Add Google Test submodule or find_package later
+# Add Google Test submodule
+add_subdirectory(extern/googletest)
 
-# For now, a simple build
+# Enable testing
+enable_testing()
+
+# Test sources (gather all test files)
+file(GLOB_RECURSE TEST_SOURCES "tests/*.cpp")
+
+# Test executable
+add_executable(unit_tests ${TEST_SOURCES} ${SOURCES})  # Link your sources if tests need them
+target_link_libraries(unit_tests PRIVATE gtest gtest_main gmock gmock_main)  # pthread for threading support
+
+# Add tests to CTest
+add_test(NAME UnitTests COMMAND unit_tests)

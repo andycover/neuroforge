@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\AbhishekAnand\OneDrive - Atyeti Inc\Documents\Repos\andycover\neuroforge\build\CMakeFiles\cc0191215a6c8df8429309d195b81b66\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0DD257B7-5CD3-3B36-AFB8-910F75311CEF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
